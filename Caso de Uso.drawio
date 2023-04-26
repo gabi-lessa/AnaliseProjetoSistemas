@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T18:57:56.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XZ1YZb3EV8IQbu6G3v3s" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T19:03:38.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G4qiYHCl2N84G8z0egXh" version="21.2.2" type="github">
   <diagram name="Página-1" id="oaLF5jLpRGnT7tSJAdiF">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="wbWdzYsicA0NpR2OB0Uz-11" value="Avaliar Serviços" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wbWdzYsicA0NpR2OB0Uz-13" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
