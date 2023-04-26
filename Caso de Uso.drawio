@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T19:42:33.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9XA3vDGG7kWmCY4T1ATa" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T19:47:56.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VDlfx59X3yV0skKqUMPN" version="21.2.2" type="github">
   <diagram name="Página-1" id="oaLF5jLpRGnT7tSJAdiF">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,17 @@
         <mxCell id="wbWdzYsicA0NpR2OB0Uz-3" value="Fazer Cadastro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="wbWdzYsicA0NpR2OB0Uz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wbWdzYsicA0NpR2OB0Uz-7" target="wbWdzYsicA0NpR2OB0Uz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wbWdzYsicA0NpR2OB0Uz-7" value="Professores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wbWdzYsicA0NpR2OB0Uz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wbWdzYsicA0NpR2OB0Uz-8" target="wbWdzYsicA0NpR2OB0Uz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wbWdzYsicA0NpR2OB0Uz-8" value="Alunos" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="590" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="580" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wbWdzYsicA0NpR2OB0Uz-10" value="Listar Cadastro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="130" height="80" as="geometry" />
